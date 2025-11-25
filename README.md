@@ -32,13 +32,32 @@ This project replicates the structure, layout, and visual design of Amazon's mai
 
 ![Footer Section](https://raw.githubusercontent.com/AnujKumarC/Amazon-Homepage-UI-Clone/main/Screenshot%202025-11-25%20220633.png)
 
-## 📂 Folder Structure
+## 📁 Project Structure
 
-Amazon Homepage UI Clone/
-│── index.html
-│── style.css
-│── images/
-│── README.md
+### 📂 Root Directory
+
+- 📄 `index.html` — Main Homepage
+- 🎨 `style.css` — Stylesheet
+- 📘 `README.md` — Documentation
+- 🖼️ `amazon_logo.png` — Logo
+- 🖼️ `hero_image.jpg` — Hero Banner
+
+### 🧩 Category Images
+
+- 🖼️ `box1_image.jpg`
+- 🖼️ `box2_image.jpg`
+- 🖼️ `box3_image.jpg`
+- 🖼️ `box4_image.jpg`
+- 🖼️ `box5_image.jpg`
+- 🖼️ `box6_image.jpg`
+- 🖼️ `box7_image.jpg`
+- 🖼️ `box8_image.jpg`
+
+### 📸 Screenshots
+
+- 🖼️ `Screenshot 2025-11-25 220559.png`
+- 🖼️ `Screenshot 2025-11-25 220622.png`
+- 🖼️ `Screenshot 2025-11-25 220633.png`
 
 ## 📬 How to Run
 

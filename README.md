@@ -18,9 +18,19 @@ This project replicates the structure, layout, and visual design of Amazon's mai
 - CSS3
 - Font Awesome Icons
 
-## 📸 Screenshots
+# 📸 Project Screenshots
 
-(Add your screenshots here after uploading)
+## 🟦 Hero Section
+
+![Hero Section](https://raw.githubusercontent.com/AnujKumarC/Amazon-Homepage-UI-Clone/main/Screenshot%202025-11-25%20220559.png)
+
+## 🟩 Product Grid
+
+![Product Grid](https://raw.githubusercontent.com/AnujKumarC/Amazon-Homepage-UI-Clone/main/Screenshot%202025-11-25%20220622.png)
+
+## 🟫 Footer Section
+
+![Footer Section](https://raw.githubusercontent.com/AnujKumarC/Amazon-Homepage-UI-Clone/main/Screenshot%202025-11-25%20220633.png)
 
 ## 📂 Folder Structure
 
